@@ -1,0 +1,6 @@
+let bag+""
+let s="naman"
+for(i=0;i<=s.length-1;i++){
+   bag=bag+s[i]
+if(bag==s){
+    caaaaansole.log("Yes this is pelindrome")
